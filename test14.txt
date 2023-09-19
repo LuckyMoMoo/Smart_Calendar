@@ -1,0 +1,64 @@
+August 01, 2021 (Sun)
+---------------------
+ 5:00 AM to  7:00 AM: [race] Hungarian GP {{Hungaroring}}
+
+August 27, 2021 (Fri)
+---------------------
+ 1:30 AM to  2:30 AM: [fp 1] Belgian GP {{Spa-Francorchamps}}
+ 5:00 AM to  6:00 AM: [fp 2] Belgian GP {{Spa-Francorchamps}}
+
+August 28, 2021 (Sat)
+---------------------
+ 2:00 AM to  3:00 AM: [fp 3] Belgian GP {{Spa-Francorchamps}}
+ 5:00 AM to  6:00 AM: [qual] Belgian GP {{Spa-Francorchamps}}
+
+August 29, 2021 (Sun)
+---------------------
+ 5:00 AM to  7:00 AM: [race] Belgian GP {{Spa-Francorchamps}}
+
+September 03, 2021 (Fri)
+------------------------
+ 1:30 AM to  2:30 AM: [fp 1] Dutch GP {{Zandvoort}}
+ 5:00 AM to  6:00 AM: [fp 2] Dutch GP {{Zandvoort}}
+
+September 04, 2021 (Sat)
+------------------------
+ 2:00 AM to  3:00 AM: [fp 3] Dutch GP {{Zandvoort}}
+ 5:00 AM to  6:00 AM: [qual] Dutch GP {{Zandvoort}}
+
+September 05, 2021 (Sun)
+------------------------
+ 5:00 AM to  7:00 AM: [race] Dutch GP {{Zandvoort}}
+
+September 10, 2021 (Fri)
+------------------------
+ 1:30 AM to  2:30 AM: [fp 1] Italian GP {{Monza}}
+ 5:00 AM to  6:00 AM: [fp 2] Italian GP {{Monza}}
+
+September 11, 2021 (Sat)
+------------------------
+ 2:00 AM to  3:00 AM: [fp 3] Italian GP {{Monza}}
+ 5:00 AM to  6:00 AM: [qual] Italian GP {{Monza}}
+
+September 12, 2021 (Sun)
+------------------------
+ 5:00 AM to  7:00 AM: [race] Italian GP {{Monza}}
+
+September 24, 2021 (Fri)
+------------------------
+12:30 AM to  1:30 AM: [fp 1] Russian GP {{Sochi Autodrom}}
+ 4:00 AM to  5:00 AM: [fp 2] Russian GP {{Sochi Autodrom}}
+
+September 25, 2021 (Sat)
+------------------------
+ 1:00 AM to  2:00 AM: [fp 3] Russian GP {{Sochi Autodrom}}
+ 4:00 AM to  5:00 AM: [qual] Russian GP {{Sochi Autodrom}}
+
+September 26, 2021 (Sun)
+------------------------
+ 4:00 AM to  6:00 AM: [race] Russian GP {{Sochi Autodrom}}
+
+October 01, 2021 (Fri)
+----------------------
+ 1:00 AM to  2:00 AM: [fp 1] Singapore GP {{Singapore}}
+ 4:30 AM to  5:30 AM: [fp 2] Singapore GP {{Singapore}}

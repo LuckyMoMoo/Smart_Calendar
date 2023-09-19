@@ -1,0 +1,286 @@
+March 27, 2021 (Sat)
+--------------------
+ 4:00 AM to  5:00 AM: [fp 3] Bahrain GP {{Bahrain Intl Circuit}}
+ 7:00 AM to  8:00 AM: [qual] Bahrain GP {{Bahrain Intl Circuit}}
+
+March 28, 2021 (Sun)
+--------------------
+ 7:00 AM to  9:00 AM: [race] Bahrain GP {{Bahrain Intl Circuit}}
+
+April 16, 2021 (Fri)
+--------------------
+ 1:30 AM to  2:30 AM: [fp 1] TBC GP {{Imola}}
+ 5:00 AM to  6:00 AM: [fp 2] TBC GP {{Imola}}
+
+April 17, 2021 (Sat)
+--------------------
+ 2:00 AM to  3:00 AM: [fp 3] TBC GP {{Imola}}
+ 5:00 AM to  6:00 AM: [qual] TBC GP {{Imola}}
+
+April 18, 2021 (Sun)
+--------------------
+ 5:00 AM to  7:00 AM: [race] TBC GP {{Imola}}
+
+May 07, 2021 (Fri)
+------------------
+ 1:30 AM to  2:30 AM: [fp 1] Spanish GP {{Circuit de Catalunya}}
+ 5:00 AM to  6:00 AM: [fp 2] Spanish GP {{Circuit de Catalunya}}
+
+May 08, 2021 (Sat)
+------------------
+ 2:00 AM to  3:00 AM: [fp 3] Spanish GP {{Circuit de Catalunya}}
+ 5:00 AM to  6:00 AM: [qual] Spanish GP {{Circuit de Catalunya}}
+
+May 09, 2021 (Sun)
+------------------
+ 5:00 AM to  7:00 AM: [race] Spanish GP {{Circuit de Catalunya}}
+
+May 20, 2021 (Thu)
+------------------
+ 1:30 AM to  2:30 AM: [fp 1] Monaco GP {{Monaco}}
+ 5:00 AM to  6:00 AM: [fp 2] Monaco GP {{Monaco}}
+
+May 22, 2021 (Sat)
+------------------
+ 2:00 AM to  3:00 AM: [fp 3] Monaco GP {{Monaco}}
+ 5:00 AM to  6:00 AM: [qual] Monaco GP {{Monaco}}
+
+May 23, 2021 (Sun)
+------------------
+ 5:00 AM to  7:00 AM: [race] Monaco GP {{Monaco}}
+
+June 04, 2021 (Fri)
+-------------------
+ 1:30 AM to  2:30 AM: [fp 1] Azerbaijan GP {{Baku City Circuit}}
+ 5:00 AM to  6:00 AM: [fp 2] Azerbaijan GP {{Baku City Circuit}}
+
+June 05, 2021 (Sat)
+-------------------
+ 2:00 AM to  3:00 AM: [fp 3] Azerbaijan GP {{Baku City Circuit}}
+ 5:00 AM to  6:00 AM: [qual] Azerbaijan GP {{Baku City Circuit}}
+
+June 06, 2021 (Sun)
+-------------------
+ 4:00 AM to  6:00 AM: [race] Azerbaijan GP {{Baku City Circuit}}
+
+June 11, 2021 (Fri)
+-------------------
+ 7:30 AM to  8:30 AM: [fp 1] Canadian GP {{Circuit Gilles Villeneuve}}
+11:00 AM to 12:00 PM: [fp 2] Canadian GP {{Circuit Gilles Villeneuve}}
+
+June 12, 2021 (Sat)
+-------------------
+ 7:00 AM to  8:00 AM: [fp 3] Canadian GP {{Circuit Gilles Villeneuve}}
+10:00 AM to 11:00 AM: [qual] Canadian GP {{Circuit Gilles Villeneuve}}
+
+June 13, 2021 (Sun)
+-------------------
+10:00 AM to 12:00 PM: [race] Canadian GP {{Circuit Gilles Villeneuve}}
+
+June 25, 2021 (Fri)
+-------------------
+ 1:30 AM to  2:30 AM: [fp 1] French GP {{Paul Ricard}}
+ 5:00 AM to  6:00 AM: [fp 2] French GP {{Paul Ricard}}
+
+June 26, 2021 (Sat)
+-------------------
+ 2:00 AM to  3:00 AM: [fp 3] French GP {{Paul Ricard}}
+ 5:00 AM to  6:00 AM: [qual] French GP {{Paul Ricard}}
+
+June 27, 2021 (Sun)
+-------------------
+ 5:00 AM to  7:00 AM: [race] French GP {{Paul Ricard}}
+
+July 02, 2021 (Fri)
+-------------------
+ 1:30 AM to  2:30 AM: [fp 1] Austrian GP {{Red Bull Ring}}
+ 5:00 AM to  6:00 AM: [fp 2] Austrian GP {{Red Bull Ring}}
+
+July 03, 2021 (Sat)
+-------------------
+ 2:00 AM to  3:00 AM: [fp 3] Austrian GP {{Red Bull Ring}}
+ 5:00 AM to  6:00 AM: [qual] Austrian GP {{Red Bull Ring}}
+
+July 04, 2021 (Sun)
+-------------------
+ 5:00 AM to  7:00 AM: [race] Austrian GP {{Red Bull Ring}}
+
+July 16, 2021 (Fri)
+-------------------
+ 2:30 AM to  3:30 AM: [fp 1] British GP {{Silverstone}}
+ 6:00 AM to  7:00 AM: [fp 2] British GP {{Silverstone}}
+
+July 17, 2021 (Sat)
+-------------------
+ 3:00 AM to  4:00 AM: [fp 3] British GP {{Silverstone}}
+ 6:00 AM to  7:00 AM: [qual] British GP {{Silverstone}}
+
+July 18, 2021 (Sun)
+-------------------
+ 6:00 AM to  8:00 AM: [race] British GP {{Silverstone}}
+
+July 30, 2021 (Fri)
+-------------------
+ 1:30 AM to  2:30 AM: [fp 1] Hungarian GP {{Hungaroring}}
+ 5:00 AM to  6:00 AM: [fp 2] Hungarian GP {{Hungaroring}}
+
+July 31, 2021 (Sat)
+-------------------
+ 2:00 AM to  3:00 AM: [fp 3] Hungarian GP {{Hungaroring}}
+ 5:00 AM to  6:00 AM: [qual] Hungarian GP {{Hungaroring}}
+
+August 01, 2021 (Sun)
+---------------------
+ 5:00 AM to  7:00 AM: [race] Hungarian GP {{Hungaroring}}
+
+August 27, 2021 (Fri)
+---------------------
+ 1:30 AM to  2:30 AM: [fp 1] Belgian GP {{Spa-Francorchamps}}
+ 5:00 AM to  6:00 AM: [fp 2] Belgian GP {{Spa-Francorchamps}}
+
+August 28, 2021 (Sat)
+---------------------
+ 2:00 AM to  3:00 AM: [fp 3] Belgian GP {{Spa-Francorchamps}}
+ 5:00 AM to  6:00 AM: [qual] Belgian GP {{Spa-Francorchamps}}
+
+August 29, 2021 (Sun)
+---------------------
+ 5:00 AM to  7:00 AM: [race] Belgian GP {{Spa-Francorchamps}}
+
+September 03, 2021 (Fri)
+------------------------
+ 1:30 AM to  2:30 AM: [fp 1] Dutch GP {{Zandvoort}}
+ 5:00 AM to  6:00 AM: [fp 2] Dutch GP {{Zandvoort}}
+
+September 04, 2021 (Sat)
+------------------------
+ 2:00 AM to  3:00 AM: [fp 3] Dutch GP {{Zandvoort}}
+ 5:00 AM to  6:00 AM: [qual] Dutch GP {{Zandvoort}}
+
+September 05, 2021 (Sun)
+------------------------
+ 5:00 AM to  7:00 AM: [race] Dutch GP {{Zandvoort}}
+
+September 10, 2021 (Fri)
+------------------------
+ 1:30 AM to  2:30 AM: [fp 1] Italian GP {{Monza}}
+ 5:00 AM to  6:00 AM: [fp 2] Italian GP {{Monza}}
+
+September 11, 2021 (Sat)
+------------------------
+ 2:00 AM to  3:00 AM: [fp 3] Italian GP {{Monza}}
+ 5:00 AM to  6:00 AM: [qual] Italian GP {{Monza}}
+
+September 12, 2021 (Sun)
+------------------------
+ 5:00 AM to  7:00 AM: [race] Italian GP {{Monza}}
+
+September 24, 2021 (Fri)
+------------------------
+12:30 AM to  1:30 AM: [fp 1] Russian GP {{Sochi Autodrom}}
+ 4:00 AM to  5:00 AM: [fp 2] Russian GP {{Sochi Autodrom}}
+
+September 25, 2021 (Sat)
+------------------------
+ 1:00 AM to  2:00 AM: [fp 3] Russian GP {{Sochi Autodrom}}
+ 4:00 AM to  5:00 AM: [qual] Russian GP {{Sochi Autodrom}}
+
+September 26, 2021 (Sun)
+------------------------
+ 4:00 AM to  6:00 AM: [race] Russian GP {{Sochi Autodrom}}
+
+October 01, 2021 (Fri)
+----------------------
+ 1:00 AM to  2:00 AM: [fp 1] Singapore GP {{Singapore}}
+ 4:30 AM to  5:30 AM: [fp 2] Singapore GP {{Singapore}}
+
+October 02, 2021 (Sat)
+----------------------
+ 2:00 AM to  3:00 AM: [fp 3] Singapore GP {{Singapore}}
+ 5:00 AM to  6:00 AM: [qual] Singapore GP {{Singapore}}
+
+October 03, 2021 (Sun)
+----------------------
+ 4:00 AM to  6:00 AM: [race] Singapore GP {{Singapore}}
+
+October 07, 2021 (Thu)
+----------------------
+ 6:30 PM to  7:30 PM: [fp 1] Japanese GP {{Suzuka}}
+10:00 PM to 11:00 PM: [fp 2] Japanese GP {{Suzuka}}
+
+October 08, 2021 (Fri)
+----------------------
+ 7:00 PM to  8:00 PM: [fp 3] Japanese GP {{Suzuka}}
+10:00 PM to 11:00 PM: [qual] Japanese GP {{Suzuka}}
+
+October 09, 2021 (Sat)
+----------------------
+ 9:00 PM to 11:00 PM: [race] Japanese GP {{Suzuka}}
+
+October 22, 2021 (Fri)
+----------------------
+ 8:30 AM to  9:30 AM: [fp 1] United States GP {{Circuit of the Americas}}
+12:00 PM to  1:00 PM: [fp 2] United States GP {{Circuit of the Americas}}
+
+October 23, 2021 (Sat)
+----------------------
+10:00 AM to 11:00 AM: [fp 3] United States GP {{Circuit of the Americas}}
+ 1:00 PM to  2:00 PM: [qual] United States GP {{Circuit of the Americas}}
+
+October 24, 2021 (Sun)
+----------------------
+11:00 AM to  1:00 PM: [race] United States GP {{Circuit of the Americas}}
+
+October 29, 2021 (Fri)
+----------------------
+ 8:30 AM to  9:30 AM: [fp 1] Mexican GP {{Autodromo Hermanos Rodriguez}}
+12:00 PM to  1:00 PM: [fp 2] Mexican GP {{Autodromo Hermanos Rodriguez}}
+
+October 30, 2021 (Sat)
+----------------------
+ 8:00 AM to  9:00 AM: [fp 3] Mexican GP {{Autodromo Hermanos Rodriguez}}
+11:00 AM to 12:00 PM: [qual] Mexican GP {{Autodromo Hermanos Rodriguez}}
+
+October 31, 2021 (Sun)
+----------------------
+11:00 AM to  1:00 PM: [race] Mexican GP {{Autodromo Hermanos Rodriguez}}
+
+November 06, 2021 (Sat)
+-----------------------
+ 7:00 AM to  8:00 AM: [fp 3] Brazilian GP {{Interlagos}}
+10:00 AM to 11:00 AM: [qual] Brazilian GP {{Interlagos}}
+
+November 07, 2021 (Sun)
+-----------------------
+ 9:00 AM to 11:00 AM: [race] Brazilian GP {{Interlagos}}
+
+November 19, 2021 (Fri)
+-----------------------
+ 7:00 PM to  8:00 PM: [fp 3] Australian GP {{Albert Park}}
+10:00 PM to 11:00 PM: [qual] Australian GP {{Albert Park}}
+
+November 20, 2021 (Sat)
+-----------------------
+10:00 PM to 12:00 AM: [race] Australian GP {{Albert Park}}
+
+December 03, 2021 (Fri)
+-----------------------
+ 8:00 AM to  9:00 AM: [fp 2] Saudi Arabian GP {{Jeddah Street Circuit}}
+
+December 04, 2021 (Sat)
+-----------------------
+ 5:00 AM to  6:00 AM: [fp 3] Saudi Arabian GP {{Jeddah Street Circuit}}
+ 8:00 AM to  9:00 AM: [qual] Saudi Arabian GP {{Jeddah Street Circuit}}
+
+December 05, 2021 (Sun)
+-----------------------
+ 8:00 AM to 10:00 AM: [race] Saudi Arabian GP {{Jeddah Street Circuit}}
+
+December 11, 2021 (Sat)
+-----------------------
+ 2:00 AM to  3:00 AM: [fp 3] Abu Dhabi GP {{Yas Marina}}
+ 5:00 AM to  6:00 AM: [qual] Abu Dhabi GP {{Yas Marina}}
+
+December 12, 2021 (Sun)
+-----------------------
+ 5:00 AM to  7:00 AM: [race] Abu Dhabi GP {{Yas Marina}}
